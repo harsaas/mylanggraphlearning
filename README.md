@@ -1,3 +1,16 @@
+****Reflexion Agent with LangGraph ****
+
+This project demonstrates advanced AI agent capabilities using LangGraph's state-of-the-art control flow mechanisms for self-reflection and response refinement.
+
+Features
+**Self-Reflection:** Implements sophisticated reflection mechanisms for response improvement
+**Iterative Refinement:** Uses a graph-based approach to iteratively enhance responses
+**Structured Output:** Uses Pydantic models for reliable data handling
+
+**Input **: "content":"What are the health benefits of drinking green tea, will that really reduce belly fat?"
+
+**Ouput :**
+
 PS C:\Users\harip\OneDrive\Desktop\Langchain\langchain-course> & c:\Users\harip\OneDrive\Desktop\Langchain\Langgraph-course\.venv\Scripts\python.exe c:/Users/harip/OneDrive/Desktop/Langchain/Langgraph-course/reflexionagent_langgraph_main.py
 ---
 config:
